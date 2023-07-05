@@ -12,6 +12,7 @@ This repo is a simple framework for a common progression when learning a new pro
 - [Flow Control](chapters/flow_control.md)
 - [Functions](chapters/functions.md)
 - [Error Handling](chapters/errors.md)
+- [Testing](chapters/testing.md)
 - [Methods](chapters/methods.md)
 - [Modularity](chapters/modularity.md)
 - [Imports](chapters/imports.md)
