@@ -7,7 +7,9 @@ This repo is a simple framework for a common progression when learning a new pro
 ## Chapters
 - [Hello world](chapters/hello_world.md)
 - [Basic Types](chapters/basic_types.md)
+- [Collections](chapters/collections.md)
 - [Objects/Classes](chapters/objects.md)
+- [Flow Control](chapters/flow_control.md)
 - [Functions](chapters/functions.md)
 - [Error Handling](chapters/errors.md)
 - [Methods](chapters/methods.md)
