@@ -25,6 +25,7 @@ This repo is a simple framework for a common progression when learning a new pro
 - [Async](chapters/async.md)
 
 ## Projects
+- [Simple CLI](projects/simple_cli.md)
 - [Simple CSV Script](projects/simple_csv_script.md)
 - [Simple REST API with DB](projects/simple_rest_api.md)
 - [Simple Threads](projects/threads.md)
