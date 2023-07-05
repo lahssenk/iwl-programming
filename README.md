@@ -20,12 +20,14 @@ This repo is a simple framework for a common progression when learning a new pro
 - [Generics](chapters/generics.md)
 - [Files](chapters/files.md)
 - [Networking](chapters/networking.md)
-- [Async](chapters/async.md)
 - [Multi-threading](chapters/multi-threading.md)
+- [Async](chapters/async.md)
 
 ## Projects
 - [Simple CSV Script](projects/simple_csv_script.md)
 - [Simple REST API with DB](projects/simple_rest_api.md)
+- [Simple Threads](projects/threads.md)
+- [Coroutines](projects/coroutines.md)
 - [gRPC API](projects/grpc_api.md)
 - [Data analytics](projects/data_analytics.md)
 - [Data Science](projects/data_science.md)
