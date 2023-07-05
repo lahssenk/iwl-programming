@@ -16,7 +16,7 @@ This repo is a simple framework for a common progression when learning a new pro
 - [Modularity](chapters/modularity.md)
 - [Imports](chapters/imports.md)
 - [Compilation](chapters/compilation.md)
-- [Abstractions](chapters/abstractions.md)
+- [Interfaces](chapters/interfaces.md)
 - [Generics](chapters/generics.md)
 - [Files](chapters/files.md)
 - [Networking](chapters/networking.md)
